@@ -9,10 +9,6 @@
     - https://www.youtube.com/watch?v=jDvOauhkEOM&list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL&index=6
 
 ## ESlint
-- Setup
-```
-    npm i -g eslint
-```
 
 ## propTypes and defaultProps
 
