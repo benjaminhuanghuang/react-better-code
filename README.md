@@ -5,12 +5,13 @@
 - Diving into ESLint
     - https://mead.io/eslint/?utm_source=udemy&utm_campaign=eslint
 
-
+- Setting ESlint for React (5:50)
+    - https://www.youtube.com/watch?v=jDvOauhkEOM&list=PLN3n1USn4xlkdRlq3VZ1sT6SGW0-yajjL&index=6
 
 ## ESlint
 - Setup
 ```
-
+    npm i -g eslint
 ```
 
 ## propTypes and defaultProps
