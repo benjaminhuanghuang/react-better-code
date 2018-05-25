@@ -19,7 +19,8 @@ Install ESlint locally for project
     npm i eslint -D
 ```
 Install extension "ESLint" for editor
-
+## eslint 的三大通用规则
+- https://blog.csdn.net/txl910514/article/details/76178988
 
 ## Airbnb rule
 ```
